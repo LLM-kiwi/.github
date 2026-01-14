@@ -1,39 +1,33 @@
+![LLM.kiwi Hero Banner](https://user-images.githubusercontent.com/your-hero-image-link.png)
+
 <div align="center">
 
 # 🥝 LLM.kiwi
 
-### One API. All AI Models. Fixed Price.
+### Free LLM API. No Token Counting. One API for All Major AI Models.
 
-[![Website](https://img.shields.io/badge/Website-llm.kiwi-97CF43?style=for-the-badge&logo=safari&logoColor=white)](https://llm.kiwi)
-[![Documentation](https://img.shields.io/badge/Docs-API%20Reference-365C3C?style=for-the-badge&logo=readthedocs&logoColor=white)](https://llm.kiwi/docs)
+[![Website](https://img.shields.io/badge/Website-llm.kiwi-97CF43?style=for-the-badge&logo=safari&logoColor=white)](https://llm.kiwi) 
+[![Docs](https://img.shields.io/badge/Docs-API%20Reference-365C3C?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.llm.kiwi) 
 [![Status](https://img.shields.io/badge/Status-Operational-97CF43?style=for-the-badge&logo=statuspage&logoColor=white)](https://llm.kiwi/uptime)
-
-<br />
-
-**Access 15+ leading AI models through a single unified API.**  
-**€20/month flat rate. No token counting. No surprise bills.**
-
-<br />
-
-[🚀 Get Started](https://llm.kiwi/dashboard) · [📖 Documentation](https://llm.kiwi/docs) · [💬 Contact Us](https://llm.kiwi/contact)
+[![Free Tier](https://img.shields.io/badge/Free%20Tier-60%20req%2Fhr-97CF43?style=for-the-badge)](https://docs.llm.kiwi/free-tier)
 
 </div>
 
 ---
 
-## ✨ Why LLM.kiwi?
+## ✨ Why Choose LLM.kiwi?
 
 | Feature | Description |
 |---------|-------------|
-| 🔗 **One API** | Single endpoint for OpenAI, Google, DeepSeek, Mistral, and Meta models |
-| 💰 **Fixed Pricing** | €20/month flat — no per-token billing, ever |
-| ⚡ **OpenAI Compatible** | Drop-in replacement — just change your base URL |
+| 🔗 **One API** | Single endpoint for OpenAI, Google, DeepSeek, Mistral, Meta, and more |
+| 💰 **Fixed Pricing** | €20/month flat — never pay per token |
+| ⚡ **OpenAI Compatible** | Drop-in replacement: just change your base URL |
 | 🚀 **High Performance** | Low latency, generous rate limits (25 req/s) |
-| 🆓 **Free Tier** | Get started with 60 requests/hour at no cost |
+| 🆓 **Free Tier** | Start for free with 60 requests/hour |
 
 ---
 
-## 🤖 Supported Models
+## 🤖 Supported AI Models
 
 <table>
 <tr>
@@ -52,10 +46,10 @@
 
 ## 🔧 Quick Start
 
-### 1. Get Your API Key
+### 1️⃣ Get Your API Key
 Sign up at [llm.kiwi/dashboard](https://llm.kiwi/dashboard) to get your free API key.
 
-### 2. Make Your First Request
+### 2️⃣ Make Your First Request
 
 ```bash
 curl https://api.llm.kiwi/v1/chat/completions \
@@ -67,7 +61,7 @@ curl https://api.llm.kiwi/v1/chat/completions \
   }'
 ```
 
-### 3. Use with Your Favorite SDK
+### 3️⃣ Use With Your Favorite SDK
 
 ```python
 from openai import OpenAI
@@ -89,43 +83,33 @@ response = client.chat.completions.create(
 
 | Resource | Description |
 |----------|-------------|
-| [Getting Started](https://llm.kiwi/docs/getting-started) | Quick setup guide |
-| [API Reference](https://llm.kiwi/docs/chat-completions) | Full endpoint documentation |
-| [Models](https://llm.kiwi/docs/models) | Complete list of available models |
-| [Free Tier](https://llm.kiwi/docs/free-tier) | Free tier limits and usage |
-| [Rate Limits](https://llm.kiwi/docs/rate-limits) | Understand rate limiting |
-| [IDE Integration](https://llm.kiwi/docs/ide-agents) | Cursor, VS Code, Windsurf guides |
+| [Getting Started](https://docs.llm.kiwi/getting-started) | Quick setup guide |
+| [API Reference](https://docs.llm.kiwi/chat-completions) | Full endpoint docs |
+| [Models](https://docs.llm.kiwi/models) | Complete list of supported models |
+| [Free Tier](https://docs.llm.kiwi/free-tier) | Free tier limits and usage |
+| [Rate Limits](https://docs.llm.kiwi/rate-limits) | Request limits explained |
+| [IDE Integration](https://docs.llm.kiwi/ide-agents) | VS Code, Cursor, Windsurf guides |
 
 ---
 
-## 🛠️ Products & Apps
-
-| App | Description | Link |
-|-----|-------------|------|
-| 🥝 **Promptich** | AI-powered prompt expander for web dev, images, video & more | [promptich.llm.kiwi](https://promptich.llm.kiwi) |
-
-> Building with LLM.kiwi? [Submit your project](https://llm.kiwi/contact) to be featured!
-
----
-
-## 💳 Pricing
+## 💳 Pricing Plans
 
 | Plan | Price | Features |
 |------|-------|----------|
-| **Free** | $0 | 60 req/hour, 8K chars/request, API key required |
+| **Free** | $0 | 60 requests/hour, 8K chars/request, API key required |
 | **Pro** | €20/mo | Unlimited tokens, 25 req/s, all models, priority support |
 
-[View full pricing details →](https://llm.kiwi/pricing)
+[View full pricing →](https://llm.kiwi/pricing)
 
 ---
 
-## 🔗 Links
+## 🔗 Quick Links
 
 <div align="center">
 
 | Website | Docs | Pricing | Showcase | Status |
 |:-------:|:----:|:-------:|:--------:|:------:|
-| [llm.kiwi](https://llm.kiwi) | [/docs](https://llm.kiwi/docs) | [/pricing](https://llm.kiwi/pricing) | [/showcase](https://llm.kiwi/showcase) | [/uptime](https://llm.kiwi/uptime) |
+| [llm.kiwi](https://llm.kiwi) | [docs.llm.kiwi](https://docs.llm.kiwi) | [/pricing](https://llm.kiwi/pricing) | [/showcase](https://llm.kiwi/showcase) | [/uptime](https://llm.kiwi/uptime) |
 
 </div>
 
@@ -133,25 +117,24 @@ response = client.chat.completions.create(
 
 ## 📫 Contact
 
-- **Website:** [llm.kiwi](https://llm.kiwi)
-- **Email:** hello@llm.kiwi
+- **Website:** [llm.kiwi](https://llm.kiwi)  
+- **Email:** hello@llm.kiwi  
 - **Contact Form:** [llm.kiwi/contact](https://llm.kiwi/contact)
 
 ---
 
 ## 📄 Legal
 
-- [Privacy Policy](https://llm.kiwi/privacy)
-- [Terms of Service](https://llm.kiwi/terms)
-- [Cookie Policy](https://llm.kiwi/cookie-policy)
+- [Privacy Policy](https://llm.kiwi/privacy)  
+- [Terms of Service](https://llm.kiwi/terms)  
+- [Cookie Policy](https://llm.kiwi/cookie-policy)  
 - [Responsible AI](https://llm.kiwi/responsible-ai)
 
 ---
 
 <div align="center">
 
-**Built with 💚 for developers**
-
+**Built with 💚 for developers**  
 © 2025 LLM.kiwi. All rights reserved.
 
 </div>
